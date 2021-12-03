@@ -36,10 +36,10 @@ My short-term goal is to be part of a reputed organization like you.
                     </div>
                 </div>
                 {/* <PrimaryButton title={'Download Cv'} /> */} <br /><br />
-                  <h1><a href="../img/portImages/Tanvir Rahman Tarafder-Resume.pdf" download className="download-btn"><span>Download cv</span></a></h1>
+                  {/* <h1><a href="../img/portImages/Tanvir Rahman Tarafder-Resume.pdf" download className="download-btn"><span>Download cv</span></a></h1>
                  
-                
-                {/* <a href="../img/Tanvir Rahman Tarafder-Resume.docx" download className="download-btn">Download cv</a> */}
+                 */}
+                <a href="../img/Tanvir Rahman Tarafder-Resume.docx" download className="download-btn">Download cv</a>
             </div>
         </ImageSectionStyled>
     )

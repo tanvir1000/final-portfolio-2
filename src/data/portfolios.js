@@ -20,8 +20,8 @@ const portfolios = [
         id: 2,
         category: 'React JS',
         image: css2,
-        // link1: 'https://github.com/tanvir1000/RFC',
-        link2: 'https://loving-cori-454c00.netlify.app/',
+        link1: 'https://github.com/tanvir1000/final-portfolio-2',
+        link2: 'https://tanviraditto.netlify.app/',
         title: 'Responsive Resume',
         // text: 'Created with only HTML and CSS.'
     },

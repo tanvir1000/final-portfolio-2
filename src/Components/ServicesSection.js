@@ -25,11 +25,11 @@ function ServicesSection() {
                             paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
                         />
                     </div>
-                    <ServiceCard 
+                    {/* <ServiceCard 
                         image={gamedev} 
                         title={'Game Development'} 
                         paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
-                    />
+                    /> */}
                 </div>
             </ServicesSectionStyled>
         </InnerLayout>
